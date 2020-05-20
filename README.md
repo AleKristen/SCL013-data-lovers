@@ -54,20 +54,6 @@ Previsualiza en este [Link](https://material.io/resources/resizer/#url=https%3A%
 Visita nuestro [Proyecto en Zeplin](https://scene.zeplin.io/project/5ec31efee16994494ce49e9b)
 y encontrarás los detalles de diseño.
 
-### Testeos de usuario
-
-Realizamos un testeo de usuario para analizar su comportamiento e interacción con la página al asignarle tareas de navegación. 
-
-Los resultados nos arrojaron que la página tiene un 86% de usabilidad, por lo tanto es fácil y rápida de navegar.
-
-![imgmaze1](http://imgfz.com/i/C9NjYKD.png)
-![imgmaze1](http://imgfz.com/i/1gYEpcV.png)
-
-Accede a los [Resultados en Maze](https://maze.design/r/4m8lehkae7dxfp)
-
-Realiza nuestro [Test en Maze](https://t.maze.design/11768094)
-
-
 ## 2. Prototipos
 
 Una vez que definimos los usuarios con los que íbamos a trabajar comenzamos a desarrollar el primer prototipo.
@@ -144,6 +130,19 @@ En el menú se encuentra la categoría "Caramelos" y por medio del filtro de hue
 
 Creamos una encuesta ubicada en el footer, donde el usuario podrá entregarnos su experiencia con el sitio y ayudarnos a mejorar.
 [Link](https://forms.gle/PFdK6d321wQkQ2a66)
+
+### Testeos de usuario
+
+Realizamos un testeo de usuario para analizar su comportamiento e interacción con la página al asignarle tareas de navegación. 
+
+Los resultados nos arrojaron que la página tiene un 86% de usabilidad, por lo tanto es fácil y rápida de navegar.
+
+![imgmaze1](http://imgfz.com/i/C9NjYKD.png)
+![imgmaze1](http://imgfz.com/i/1gYEpcV.png)
+
+Accede a los [Resultados en Maze](https://maze.design/r/4m8lehkae7dxfp)
+
+Realiza nuestro [Test en Maze](https://t.maze.design/11768094)
 
 ## Presentación en PPT
 
